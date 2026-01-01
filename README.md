@@ -9,9 +9,17 @@ This project successfully secured a 3-year contract through accurate analytics a
 ✅ Built a comprehensive interactive dashboard
 ✅ Delivered professional presentation that secured a 3-year contract
 
+<img width="1832" height="650" alt="1" src="https://github.com/user-attachments/assets/b328da56-2c29-4b91-9e0c-d6b61a3884ba" />
+
+========>>
+
+<img width="1832" height="638" alt="2" src="https://github.com/user-attachments/assets/2e976a61-9f25-420d-9291-4248152acee3" />
 
 
+========>>
+<img width="1788" height="652" alt="3" src="https://github.com/user-attachments/assets/2c886926-64a1-4e60-8d54-0475253095b3" />
 
+========>>
 
 
 📋 Project Phases
